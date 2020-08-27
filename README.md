@@ -1,7 +1,45 @@
-### Hi there 👋
+### About me
+
+```bash
+#> Arlington Vargas Mahecha
+$> System Engineer
+$> Sana Commerce
+```
+
+## Extra information
+```json
+{
+  "OSs": [
+    "Linux",
+    "Windows"
+  ],
+  "Languages": [
+    "C#",
+    "Javascript",
+    "Typescript",    
+    "PHP",
+    "VB"
+  ],
+  "Other": [
+    "HTML",
+    "CSS"
+  ],
+  "Tools": [
+    "ReactJs",
+    "Express",
+    "NodeJs",
+    "AngularJs"
+  ],
+  "Databases": [
+    "MySql",
+    "Sql Server",
+    "PostgreSQL"
+  ]
+}
+```
 
 <!--
-**avargasma/avargasma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ogranada/ogranada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
